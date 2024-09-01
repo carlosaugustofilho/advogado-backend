@@ -1,0 +1,15 @@
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\bin\Debug\net6.0\Advogados.Infra.deps.json
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\bin\Debug\net6.0\Advogados.Infra.dll
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\bin\Debug\net6.0\Advogados.Infra.pdb
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\bin\Debug\net6.0\Advogados.Domain.dll
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\bin\Debug\net6.0\Advogados.Domain.pdb
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\obj\Debug\net6.0\Advogados.Infra.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\obj\Debug\net6.0\Advogados.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\obj\Debug\net6.0\Advogados.Infra.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\obj\Debug\net6.0\Advogados.Infra.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\obj\Debug\net6.0\Advogados.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\obj\Debug\net6.0\Advogados.Infra.csproj.CopyComplete
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\obj\Debug\net6.0\Advogados.Infra.dll
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\obj\Debug\net6.0\refint\Advogados.Infra.dll
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\obj\Debug\net6.0\Advogados.Infra.pdb
+C:\Users\Carlos\source\repos\advogados\Advogados.Infra\obj\Debug\net6.0\ref\Advogados.Infra.dll

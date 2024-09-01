@@ -1,0 +1,17 @@
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\bin\Debug\net6.0\Advogados.Aplication.deps.json
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\bin\Debug\net6.0\Advogados.Aplication.dll
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\bin\Debug\net6.0\Advogados.Aplication.pdb
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\bin\Debug\net6.0\Advogados.Domain.dll
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\bin\Debug\net6.0\Advogados.Domain.pdb
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\obj\Debug\net6.0\Advogados.Aplication.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\obj\Debug\net6.0\Advogados.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\obj\Debug\net6.0\Advogados.Aplication.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\obj\Debug\net6.0\Advogados.Aplication.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\obj\Debug\net6.0\Advogados.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\obj\Debug\net6.0\Advogados.Aplication.csproj.CopyComplete
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\obj\Debug\net6.0\Advogados.Aplication.dll
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\obj\Debug\net6.0\refint\Advogados.Aplication.dll
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\obj\Debug\net6.0\Advogados.Aplication.pdb
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\obj\Debug\net6.0\ref\Advogados.Aplication.dll
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\bin\Debug\net6.0\Advogados.Infra.dll
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Aplication\bin\Debug\net6.0\Advogados.Infra.pdb

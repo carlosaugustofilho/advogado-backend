@@ -1,0 +1,12 @@
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Domain\obj\Debug\net6.0\Advogados.Domain.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Domain\obj\Debug\net6.0\Advogados.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Domain\obj\Debug\net6.0\Advogados.Domain.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Domain\obj\Debug\net6.0\Advogados.Domain.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Domain\obj\Debug\net6.0\Advogados.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Domain\bin\Debug\net6.0\Advogados.Domain.deps.json
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Domain\bin\Debug\net6.0\Advogados.Domain.dll
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Domain\bin\Debug\net6.0\Advogados.Domain.pdb
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Domain\obj\Debug\net6.0\Advogados.Domain.dll
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Domain\obj\Debug\net6.0\refint\Advogados.Domain.dll
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Domain\obj\Debug\net6.0\Advogados.Domain.pdb
+C:\Users\Carlos\source\repos\advogados\src\Advogados.Domain\obj\Debug\net6.0\ref\Advogados.Domain.dll
